@@ -71,3 +71,19 @@ button {
 	color: white;
 	padding-top: 16px;
 }
+
+#abttext {
+	text-align: left;
+	padding: 32px;
+}
+
+#abtfeature {
+	display: flex;
+	justify-content: center;
+	padding: 32px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
